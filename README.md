@@ -98,7 +98,7 @@ The `standard` version uses the following electronic components:
 |------------------------------------------------------|------------------------------------------------------|
 | ![](Resources/Standard/08-proyect-final-02.jpg)      | ![](Resources/Standard/08-proyect-final-04.jpg)      |
 
-See 'Rescources' sub-folder for more pictures & videos of the project.
+See 'Resources' sub-folder for more pictures & videos of the project.
 
 &nbsp;
 
